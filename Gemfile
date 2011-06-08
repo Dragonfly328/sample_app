@@ -19,6 +19,9 @@ group :test do
    gem 'webrat', '0.7.1'
    gem 'autotest', '4.3.2'
    gem 'autotest-rails-pure', '4.1.0'
+   gem 'autotest-fsevent', '0.2.2'
+   gem 'autotest-growl', '0.2.4'
+   gem 'spork', '0.8.4'
 end
 
 # Use unicorn as the web server
